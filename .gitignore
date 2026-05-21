@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+outputs/
+dataset/*/outputs/
+model_ckpt/
+
+.venv/
+venv/
+.env
+
+*.log
