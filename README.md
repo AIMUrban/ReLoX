@@ -1,6 +1,6 @@
 ﻿# ReLoX
 
-This repository contains the **PyTorch implementation** for the paper: **Where to Go Next: Enhancing Zero-Shot Capability for Cross-City Mobility Prediction**
+This repository contains the **PyTorch implementation** for the paper: [**Where to Go Next: Enhancing Zero-Shot Capability for Cross-City Mobility Prediction**](https://dl.acm.org/doi/10.1145/3770855.3818150).
 
 The current codebase is streamlined to a single **base model** pipeline, with:
 - visual encoder (`custom_resnet.py`)
